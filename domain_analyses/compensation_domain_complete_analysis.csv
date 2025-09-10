@@ -1,0 +1,19 @@
+Subtheme,Count,Percentage,Distinct_Participants,Quote_Candidates
+Effort-pay mismatch,29,58.0%,29,12
+Positive compensation experience,22,44.0%,22,4
+Low pay rates,7,14.0%,7,3
+General compensation issues,6,12.0%,6,0
+Payment volatility,3,6.0%,3,0
+
+Code,Count,Percentage,Distinct_Participants,Quote_Candidates
+effort_pay_mismatch,15,30.0%,15,6
+time_effort_reflection,12,24.0%,12,2
+unfair_pay,6,12.0%,6,3
+inconsistent_payment,6,12.0%,6,2
+stable_fair_pay,4,8.0%,4,0
+below_minimum_wage,2,4.0%,2,1
+unpaid_work,1,2.0%,1,1
+unpaid_qualifications,1,2.0%,1,1
+
+Total_Compensation_Entries,70,140.0%,49,22
+Total_Distinct_Participants,49,98.0%,49,22

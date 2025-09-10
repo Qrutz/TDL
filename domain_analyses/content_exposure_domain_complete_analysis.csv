@@ -1,0 +1,19 @@
+Subtheme,Count,Percentage,Distinct_Participants,Quote_Candidates
+Disturbing content exposure,24,48.0%,24,8
+Mental and emotional impact,5,10.0%,5,0
+Positive content experience,4,8.0%,4,0
+Support system challenges,1,2.0%,1,0
+Ethical concerns,3,6.0%,3,2
+
+Code,Count,Percentage,Distinct_Participants,Quote_Candidates
+disturbing_content,18,36.0%,18,6
+content_warnings,10,20.0%,10,2
+mental_impact,6,12.0%,6,2
+hate_speech,4,8.0%,4,1
+violent_content,3,6.0%,3,1
+work_stress,3,6.0%,3,1
+support_available,4,8.0%,4,1
+emotionally_draining,1,2.0%,1,0
+
+Total_Content_Exposure_Entries,42,84.0%,36,10
+Total_Distinct_Participants,36,72.0%,36,10

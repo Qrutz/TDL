@@ -1,0 +1,14 @@
+Subtheme,Count,Percentage,Distinct_Participants,Quote_Candidates
+Task design challenges,11,22.0%,11,2
+Time pressure and constraints,2,4.0%,2,0
+Instruction clarity issues,2,4.0%,2,1
+
+Code,Count,Percentage,Distinct_Participants,Quote_Candidates
+time_constraints,12,24.0%,12,2
+work_pressure,3,6.0%,3,0
+task_complexity,1,2.0%,1,1
+guideline_issues,1,2.0%,1,1
+instruction_issues,1,2.0%,1,0
+
+Total_Task_Design_Entries,16,32.0%,15,3
+Total_Distinct_Participants,15,30.0%,15,3

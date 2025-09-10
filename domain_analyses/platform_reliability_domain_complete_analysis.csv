@@ -1,0 +1,11 @@
+Subtheme,Count,Percentage,Distinct_Participants,Quote_Candidates
+Technical reliability issues,4,8.0%,4,1
+Platform access problems,1,2.0%,1,0
+
+Code,Count,Percentage,Distinct_Participants,Quote_Candidates
+technical_issues,3,6.0%,3,0
+system_errors,3,6.0%,3,1
+platform_issues,1,2.0%,1,0
+
+Total_Platform_Reliability_Entries,5,10.0%,5,1
+Total_Distinct_Participants,5,10.0%,5,1
